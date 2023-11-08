@@ -1,0 +1,17 @@
+Seccion:Departamento:Cargo:Nombre:Apellido
+Gerencias:Gerencia:Gestor:Juan:Lopez
+Gerencias:Gerencia:SecretariaD:Ana:Ramirez
+Reparacion:Mecanica:JefeMeca:Antonio:Jimenez
+Reparacion:Mecanica:Mecanico:Renata:Garcia
+Reparacion:Mecanica:Mecanico:Raul:Perez
+Reparacion:Mecanica:Mecanico:Pedro:Sanchez
+Reparacion:Pintura:JefePinta:Isabel:Granjel
+Reparacion:Pintura:Pintor:Reyes:Martinez
+Reparacion:Pintura:Pintor:Andres:Ruiz
+Reparacion:Electricidad:JefeElec:Luis:Garcia
+Reparacion:Electricidad:Electrico:Ramon:Rubial
+Reparacion:Electricidad:Electrico:Rosa:Calvet
+Almacen:Compras:Administrativo:Manuel:Delgado
+Almacen:Compras:Administrativo:Maria:Calle
+Almacen:Repuestos:Administrativo:Adrian:Andrade
+Almacen:Repuestos:Administrativo:Carla:Romeu
